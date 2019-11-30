@@ -6,7 +6,7 @@ Natours is a web application.
 
 Built using modern technologies:
 
-- [node.js]
+- [node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 - [mongoDB](https://www.mongodb.com/)
 - [mongoose](https://mongoosejs.com/)
