@@ -10,4 +10,4 @@ Built using modern technologies:
 - [Express](https://expressjs.com/)
 - [mongoDB](https://www.mongodb.com/)
 - [mongoose](https://mongoosejs.com/)
-- **and much more 🤪**
+- **And much more 🤪**
