@@ -1,11 +1,12 @@
 # Natours Application
 
 Natours is a web application.
+[Click here to visit](https://tours-web-app.herokuapp.com/)
 
 ![](Screenshot.png)
 
-
 ## Usage example
+
 #### Demo cards for booking test
 
 | NUMBER              | BRAND                       | CVC          | DATE            |
@@ -25,8 +26,11 @@ Natours is a web application.
 | 3566 0020 2036 0505 | JCB                         | Any 3 digits | Any future date |
 | 6200 0000 0000 0005 | UnionPay                    | Any 3 digits | Any future date |
 
+##API Documentation
+[Click here to get started](https://documenter.getpostman.com/view/8264761/SW7c37ZY)
 
 ## Tech
+
 #### Built using modern technologies:
 
 - [node.js](https://nodejs.org/)
@@ -34,4 +38,3 @@ Natours is a web application.
 - [mongoDB](https://www.mongodb.com/)
 - [mongoose](https://mongoosejs.com/)
 - **And much more 🤪**
-
