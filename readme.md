@@ -2,6 +2,8 @@
 
 Natours is a web application.
 
+![](Screenshot.png)
+
 
 ## Usage example
 #### Demo cards for booking test
