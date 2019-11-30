@@ -26,7 +26,8 @@ Natours is a web application.
 | 3566 0020 2036 0505 | JCB                         | Any 3 digits | Any future date |
 | 6200 0000 0000 0005 | UnionPay                    | Any 3 digits | Any future date |
 
-##API Documentation
+## API Documentation
+
 [Click here to get started](https://documenter.getpostman.com/view/8264761/SW7c37ZY)
 
 ## Tech
