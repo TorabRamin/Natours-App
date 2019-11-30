@@ -6,22 +6,22 @@ Natours is a web application.
 ## Usage example
 #### Demo cards for booking test
 
-| NUMBER         | BRAND                       | CVC          | DATE            |
-| -------------- | --------------------------- | ------------ | --------------- |
-| 42424242424242 | Visa                        | Any 3 digits | Any future date |
-| 00056655665556 | Visa (debit)                | Any 3 digits | Any future date |
-| 55555555554444 | Mastercard                  | Any 3 digits | Any future date |
-| 23003122003222 | Mastercard (2-series)       | Any 3 digits | Any future date |
-| 00828282828210 | Mastercard (debit)          | Any 3 digits | Any future date |
-| 05105105105100 | Mastercard (prepaid)        | Any 3 digits | Any future date |
-| 8282246310005  | American Express            | Any 4 digits | Any future date |
-| 1449635398431  | American Express            | Any 4 digits | Any future date |
-| 11111111111117 | Discover                    | Any 3 digits | Any future date |
-| 11000990139424 | Discover                    | Any 3 digits | Any future date |
-| 56930009020004 | Diners Club                 | Any 3 digits | Any future date |
-| 227206271667   | Diners Club (14 digit card) | Any 3 digits | Any future date |
-| 66002020360505 | JCB                         | Any 3 digits | Any future date |
-| 00000000000005 | UnionPay                    | Any 3 digits | Any future date |
+| NUMBER              | BRAND                       | CVC          | DATE            |
+| ------------------- | --------------------------- | ------------ | --------------- |
+| 4242 4242 4242 4242 | Visa                        | Any 3 digits | Any future date |
+| 4000 0566 5566 5556 | Visa (debit)                | Any 3 digits | Any future date |
+| 4000 0566 5566 5556 | Mastercard                  | Any 3 digits | Any future date |
+| 2223 0031 2200 3222 | Mastercard (2-series)       | Any 3 digits | Any future date |
+| 5200 8282 8282 8210 | Mastercard (debit)          | Any 3 digits | Any future date |
+| 5105 1051 0510 5100 | Mastercard (prepaid)        | Any 3 digits | Any future date |
+| 3782 822463 10005   | American Express            | Any 4 digits | Any future date |
+| 3714 496353 98431   | American Express            | Any 4 digits | Any future date |
+| 6011 1111 1111 1117 | Discover                    | Any 3 digits | Any future date |
+| 6011 0009 9013 9424 | Discover                    | Any 3 digits | Any future date |
+| 3056 9300 0902 0004 | Diners Club                 | Any 3 digits | Any future date |
+| 3622 7206 2716 67   | Diners Club (14 digit card) | Any 3 digits | Any future date |
+| 3566 0020 2036 0505 | JCB                         | Any 3 digits | Any future date |
+| 6200 0000 0000 0005 | UnionPay                    | Any 3 digits | Any future date |
 
 
 ## Tech
