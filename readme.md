@@ -1,7 +1,7 @@
 # Natours Application
 
 Natours is a web application.
-[Click here to visit](https://tours-web-app.herokuapp.com/)
+[Click here to visit](https://natours.meetramin.com/)
 
 ![](Screenshot.png)
 
